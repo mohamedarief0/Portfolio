@@ -7,8 +7,8 @@ function About() {
             <h1 className="c-w">About Me</h1>
             <p>Hey,I'm Arief.</p>
             <p className="h-f indent">
-                UI/UX Designer with two years of professional experience in the field.
-                Based in Chennai, Tamil Nadu, A unique blend of frontend skills and creative design thinking to every project I undertakes.
+                UI Designer with professional level in the field.
+                Based in Chennai, Tamil Nadu, A unique blend of frontend skills and creative design.
             </p>
             <hr></hr>
             <p className="h-f indent">I have a strong understanding of user experience principles and a keen eye for aesthetics that enables me to create stunning designs that resonate with users.
@@ -16,7 +16,6 @@ function About() {
                 I approaches every task with enthusiasm and takes on new challenges with a hunger to learn and grow.
                 My passion for design and technology keeps him up-to-date with the latest trends and techniques in the field, making me as a valuable asset to any team.<br></br><br></br>
                 If you're looking to learn more about UI/UX design, frontend development, or just want to stay updated on the latest trends and techniques in the industry, be sure to follow me on LinkedIn and GitHub.
-                So why wait? Follow me today and take your design and development skills to the next level!
             </p>
 
             <div>
@@ -27,7 +26,7 @@ function About() {
                         <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
                         </svg> <span>Linked In</span>
                     </h3>
-                    <a href="https://www.linkedin.com/in/mohamed-arief-5a4348235/" className="link" target="_blank" ></a>
+                    <a href="https://www.linkedin.com/in/mohamed-arief" className="link" target="_blank" ></a>
                     <div>
                         <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-arrow-up-right" viewBox="0 0 16 16">
                             <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z" />

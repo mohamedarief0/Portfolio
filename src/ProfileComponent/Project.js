@@ -37,13 +37,13 @@ function Project() {
             </div>
 
             <hr></hr>
-{/* 
             <div className="grids">
-                <p className="name h-f">Ne</p>
-                <a href="https://mohamedarief0.github.io/Netflix-demo-loginpage/" className=""> : https://mohamedarief0.github.io/Netflix-demo-loginpage/</a>
+                <p className="name h-f">ToDo-list</p>
+                <a href="https://mohamedarief0.github.io/ToDo-list/" className=""> : https://mohamedarief0.github.io/Netflix-demo-loginpage/</a>
             </div>
             <hr></hr>
 
+{/* 
             <div className="grids">
                 <p className="name h-f">Net</p>
                 <a href="https://mohamedarief0.github.io/Netflix-demo-loginpage/" className=""> : https://mohamedarief0.github.io/Netflix-demo-loginpage/</a>
